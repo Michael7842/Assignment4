@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Customers</string>
+    <string name="logged_in">JDOE</string>
+    <string name="enter_customer_name">Enter customer name</string>
+    <string name="next">Next</string>
+    <string name="save">Save</string>
+    <string name="capture_image">Capture image</string>
+    <string name="sessions">Sessions</string>
+    <string name="new_session">Create session</string>
+    <string name="credit_card">Credit card number</string>
+    <string name="amount">Enter amount</string>
+    <string name="print">Print</string>
+    <string name="email">Email</string>
+
+
+</resources>
